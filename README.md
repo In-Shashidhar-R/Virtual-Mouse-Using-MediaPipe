@@ -1,5 +1,9 @@
 # Virtual-Mouse-Using-MediaPipe
 
+# Abstract
+
+A gesture-based system using MediaPipe and OpenCV replaces mouse inputs, enabling intuitive, hands-free control for enhanced accessibility.  
+
 # Need for the Project
 
 The need for a gesture-based navigation system stems from the following challenges in traditional human-computer interaction methods:
